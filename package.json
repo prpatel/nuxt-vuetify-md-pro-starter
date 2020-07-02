@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-pwa-vuetify-starter",
+  "name": "Vuetify MD Pro clone in Nuxt",
   "version": "1.0.0",
   "private": true,
-  "description": "Nuxt.js + PWA + Vuetify.js starter project",
+  "description": "This project converted the Vuetify MD Pro template into Nuxt",
   "keywords": [
     "nuxt",
     "nuxt pwa",
@@ -18,11 +18,6 @@
     "vuetify.js",
     "vuetifyjs"
   ],
-  "homepage": "https://github.com/jefrydco/nuxt-pwa-vuetify-starter#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jefrydco/nuxt-pwa-vuetify-starter"
-  },
   "license": "APL",
   "author": {
     "name": "Pratik Patel",
@@ -48,7 +43,7 @@
     "nuxt": "^2.12.2",
     "nuxt-i18n": "^6.12.2",
     "nuxt-validate": "^1.0.1",
-    "vue-chartist": "^2.2.1"
+    "vue-chartist": "^2.3.1"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
